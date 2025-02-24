@@ -12,7 +12,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="XDkqRGqzxVcmrvKnsL3J-95" value="Производ-ная компании" style="html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;fillColor=none;verticalAlign=bottom;align=left;fontStyle=1" parent="1" vertex="1">
+        <mxCell id="XDkqRGqzxVcmrvKnsL3J-95" value="ИИ сервисы" style="html=1;whiteSpace=wrap;dashed=1;dashPattern=8 8;fillColor=none;verticalAlign=bottom;align=left;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="2110" y="280" width="180" height="475" as="geometry" />
         </mxCell>
         <mxCell id="XDkqRGqzxVcmrvKnsL3J-98" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.25;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#FF99CC;" parent="1" source="XDkqRGqzxVcmrvKnsL3J-92" target="XDkqRGqzxVcmrvKnsL3J-29" edge="1">
@@ -353,7 +353,7 @@
         <mxCell id="YgyTGqqNjM90E9C2msN6-17" value="BI-система" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1900" y="1090" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="ia4_v7rCAIX8sDWoEV_A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.102;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#00CC00;" edge="1" parent="1" source="XDkqRGqzxVcmrvKnsL3J-26" target="XDkqRGqzxVcmrvKnsL3J-30">
+        <mxCell id="ia4_v7rCAIX8sDWoEV_A-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.102;entryY=0.011;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0;exitY=0.75;exitDx=0;exitDy=0;strokeColor=#00CC00;" parent="1" source="XDkqRGqzxVcmrvKnsL3J-26" target="XDkqRGqzxVcmrvKnsL3J-30" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="970" y="575" />
@@ -362,12 +362,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="ia4_v7rCAIX8sDWoEV_A-2" value="Передаются данные&lt;div&gt;для обучения ИИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="ia4_v7rCAIX8sDWoEV_A-1">
+        <mxCell id="ia4_v7rCAIX8sDWoEV_A-2" value="Передаются данные&lt;div&gt;для обучения ИИ&lt;/div&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ia4_v7rCAIX8sDWoEV_A-1" vertex="1" connectable="0">
           <mxGeometry x="0.1648" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ia4_v7rCAIX8sDWoEV_A-3" value="Сырые, неструктурированные&lt;div&gt;данные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="ia4_v7rCAIX8sDWoEV_A-3" value="Сырые, неструктурированные&lt;div&gt;данные&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="2140" y="460" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
