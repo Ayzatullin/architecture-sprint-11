@@ -1,0 +1,188 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36" version="26.0.16">
+  <diagram name="Страница — 1" id="7z6vfE_zi3pRjWWN4cj-">
+    <mxGraphModel dx="3457" dy="1843" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="qVizkSaB9zK_2vUc7EST-1" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=#f9f7ed;strokeColor=#36393d;" vertex="1" parent="1">
+          <mxGeometry x="30" y="80" width="1180" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-1">
+          <mxGeometry width="1180" height="61" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-3" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-2">
+          <mxGeometry width="156" height="61" as="geometry">
+            <mxRectangle width="156" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-4" value="Q1" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="qVizkSaB9zK_2vUc7EST-2">
+          <mxGeometry x="156" width="244" height="61" as="geometry">
+            <mxRectangle width="244" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-5" value="Q2" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="qVizkSaB9zK_2vUc7EST-2">
+          <mxGeometry x="400" width="248" height="61" as="geometry">
+            <mxRectangle width="248" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-14" value="Q3" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="qVizkSaB9zK_2vUc7EST-2">
+          <mxGeometry x="648" width="262" height="61" as="geometry">
+            <mxRectangle width="262" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-17" value="Q4" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontSize=27;fontStyle=1" vertex="1" parent="qVizkSaB9zK_2vUc7EST-2">
+          <mxGeometry x="910" width="270" height="61" as="geometry">
+            <mxRectangle width="270" height="61" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-6" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-1">
+          <mxGeometry y="61" width="1180" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-7" value="Инфраструктурная&lt;div&gt;команда&lt;br&gt;(5)&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-6">
+          <mxGeometry width="156" height="146" as="geometry">
+            <mxRectangle width="156" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-8" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-6">
+          <mxGeometry x="156" width="244" height="146" as="geometry">
+            <mxRectangle width="244" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-9" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-6">
+          <mxGeometry x="400" width="248" height="146" as="geometry">
+            <mxRectangle width="248" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-15" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-6">
+          <mxGeometry x="648" width="262" height="146" as="geometry">
+            <mxRectangle width="262" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-18" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-6">
+          <mxGeometry x="910" width="270" height="146" as="geometry">
+            <mxRectangle width="270" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-10" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-1">
+          <mxGeometry y="207" width="1180" height="146" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-11" value="Команда&lt;div&gt;инноваций&lt;br&gt;(5)&lt;/div&gt;" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-10">
+          <mxGeometry width="156" height="146" as="geometry">
+            <mxRectangle width="156" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-12" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-10">
+          <mxGeometry x="156" width="244" height="146" as="geometry">
+            <mxRectangle width="244" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-13" value="" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-10">
+          <mxGeometry x="400" width="248" height="146" as="geometry">
+            <mxRectangle width="248" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-16" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-10">
+          <mxGeometry x="648" width="262" height="146" as="geometry">
+            <mxRectangle width="262" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-19" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-10">
+          <mxGeometry x="910" width="270" height="146" as="geometry">
+            <mxRectangle width="270" height="146" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-20" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;top=0;left=0;bottom=0;right=0;dropTarget=0;collapsible=0;recursiveResize=0;expand=0;fontStyle=0;fillColor=none;strokeColor=inherit;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-1">
+          <mxGeometry y="353" width="1180" height="147" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-21" value="Команда продукта&lt;br&gt;(15)" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;fontStyle=1;fontSize=14;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-20">
+          <mxGeometry width="156" height="147" as="geometry">
+            <mxRectangle width="156" height="147" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-22" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-20">
+          <mxGeometry x="156" width="244" height="147" as="geometry">
+            <mxRectangle width="244" height="147" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-23" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-20">
+          <mxGeometry x="400" width="248" height="147" as="geometry">
+            <mxRectangle width="248" height="147" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-24" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-20">
+          <mxGeometry x="648" width="262" height="147" as="geometry">
+            <mxRectangle width="262" height="147" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-25" style="connectable=0;recursiveResize=0;strokeColor=inherit;fillColor=none;align=center;whiteSpace=wrap;html=1;" vertex="1" parent="qVizkSaB9zK_2vUc7EST-20">
+          <mxGeometry x="910" width="270" height="147" as="geometry">
+            <mxRectangle width="270" height="147" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-26" value="RoadMap&amp;nbsp;«Будущее 2.0», 2025г." style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="30" y="20" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-29" value="&lt;div class=&quot;paragraph&quot; style=&quot;box-sizing: inherit; margin: var(--size-400, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 1.25)) 0 var(--size-200, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 0.75)); background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.85);&quot;&gt;&lt;font style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237));&quot; face=&quot;Helvetica&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Результаты Q1:&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;- Из DWH выделены данные для транзакционных запросов сервиса клиник в отдельную БД. DWH выполняет только аналитическую функцию&lt;br&gt;- DWH переехал из &lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 115%;&quot;&gt;Microsoft SQL-server 2008 в&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); line-height: 115%;&quot; lang=&quot;EN-US&quot;&gt;Greenplum&lt;br&gt;-&amp;nbsp;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Начато внедрение API Gateway для уменьшения связности и повышения эффективности взаимодействия и разработки&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-size: 14px; background-color: transparent;&quot;&gt;- Начали внедрение&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-size: 14px; background-color: transparent;&quot;&gt;Airflow для управления процессами передачи и трансформации данных, снижения объема передаваемых данных и повышения их качества&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); font-size: 14px;&quot;&gt;-&amp;nbsp;Запланированы проекты в доменах по развитию «витрины данных»&lt;/span&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;&lt;br&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;-&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); background-color: transparent;&quot;&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Проработали проект сервиса клиник&lt;br&gt;-&amp;nbsp;&lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); font-size: 14px;&quot;&gt;Приступили к обновлению фреймворка&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;сервиса клиник&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: transparent; font-size: 14px;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;paragraph&quot; style=&quot;box-sizing: inherit; margin: var(--size-400, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 1.25)) 0 var(--size-200, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 0.75)); background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.85);&quot;&gt;&lt;font style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237));&quot; face=&quot;Helvetica&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot; color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;span style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;b style=&quot;&quot;&gt;Результаты Q2:&lt;br&gt;&lt;/b&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;- Тестирование &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;API Gateway&lt;br&gt;- &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18)); font-size: 14px;&quot;&gt;Тестирование обновления фреймворка&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255)); font-size: 14px; background-color: light-dark(rgb(255, 255, 255), rgb(18, 18, 18));&quot;&gt;сервиса клиник&lt;br&gt;- Подготовка инфраструктуры для интеграции новых бизнесов&lt;br&gt;- Завершили внедрение&amp;nbsp;&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;Airflow&lt;/span&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;&lt;br&gt;- Подготовились к интеграции новых бизнесов&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;paragraph&quot; style=&quot;box-sizing: inherit; margin: var(--size-400, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 1.25)) 0 var(--size-200, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 0.75)); background-color: rgb(255, 255, 255);&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;b style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Результаты Q3:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;- Внедрен инструмент обнаружения данных DataHub&lt;br&gt;- Использование &lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve; color: rgb(186, 0, 133);&quot;&gt;&lt;font style=&quot;color: rgb(0, 0, 0);&quot;&gt;API Gateway в проде&lt;br&gt;- Сервис клиник работает на обновленном фреймворке&lt;br&gt;- Запуск интеграции новых бизнесов&lt;br&gt;- Начато внедрение CDC Debezium с Kafka&lt;br&gt;- Разработан функционал портала самообслуживания&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div class=&quot;paragraph&quot; style=&quot;box-sizing: inherit; margin: var(--size-400, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 1.25)) 0 var(--size-200, calc(var(--base-unit, calc(1rem * var(--base-ratio, 1))) * 0.75)); background-color: rgb(255, 255, 255); color: rgba(0, 0, 0, 0.85);&quot;&gt;&lt;font style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237));&quot; face=&quot;Helvetica&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;b style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;Результаты Q4:&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;&lt;/font&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-size: 14px; white-space-collapse: preserve;&quot;&gt;- Завершено внедрение CDC Debezium с Kafka&lt;/span&gt;&lt;font style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237));&quot; face=&quot;Helvetica&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;b style=&quot;white-space-collapse: preserve;&quot;&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot;&gt;- &lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;font-size: 14px; background-color: transparent; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;Реализован портал самообслуживания&lt;br&gt;- Реализована возможность &lt;/font&gt;&lt;/span&gt;&lt;/font&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;интеграции новых бизнесов&lt;br&gt;- Интегрированы новый бизнесы: фарма и производитель&lt;br&gt;- Добавлены домены &lt;/font&gt;&lt;/span&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot;&gt;новых&lt;/span&gt;&lt;span style=&quot;color: light-dark(rgba(0, 0, 0, 0.85), rgb(237, 237, 237)); background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt; бизнесов в DWH&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="30" y="660" width="770" height="640" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-30" value="Результаты RoadMap:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="30" y="620" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-31" value="Обновление фреймворка" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="380" width="470" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-32" value="Обоснование изменений:" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontSize=25;" vertex="1" parent="1">
+          <mxGeometry x="840" y="620" width="760" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-33" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;1. Из DWH выделены данные для транзакционных запросов в отдельную БД&lt;br&gt;&lt;/b&gt;Бизнес отчеты станут приходить быстрее&lt;br&gt;&lt;/span&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;b&gt;2. DWH переехал из Microsoft SQL-server 2008 в Greenplum&lt;br&gt;&lt;/b&gt;Благодаря этому повышаем безопасность. Снижаем риски утечки и взлома&lt;b&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;3. Внедрение Airflow&lt;br&gt;&lt;/b&gt;Оптимизация использования ресурсов БД. Повышение качества данных. Шедулинг обращений к БД.&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;4.  Внедрение API Gateway&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;Более простая масштабируемость. Легкость добавления новых сервисов. Повышение безопасности и наблюдаемости&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;color: rgba(0, 0, 0, 0.85); font-size: 14px; white-space-collapse: preserve; background-color: rgb(255, 255, 255);&quot;&gt;&lt;b&gt;5. Внедрение Data Mesh (CDC Debezium, Kafka)&lt;br&gt;&lt;/b&gt;Л&lt;/span&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;егкость масштабирования витрин данных вне зависимости от количества бизнесов и их бизнес-целей&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent; font-size: 14px; white-space-collapse: preserve;&quot;&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;b&gt;6. Переписать сервис клиник на Java и JavaScript&lt;/b&gt;&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font color=&quot;rgba(0, 0, 0, 0.85)&quot;&gt;&lt;span style=&quot;font-size: 14px; white-space-collapse: preserve;&quot;&gt;Повышение безопасности. Большие технические возможности для использования ИИ и финтех сервисов и соответственно для увеличения среднего чека и продаж&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;b&gt;7. Внедрение DataHub&lt;/b&gt;&lt;br&gt;Инструмент для управления данными, их обнаружения. Повышение эффективности отчетности, качества. Более полное использование имеющихся данных повысит скорость принятия решений и их качество&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=top;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="840" y="690" width="710" height="430" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-34" value="Подготовка инфраструктура" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="195" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-35" value="Работа с техдолгом безопасности" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="200" width="230" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-36" value="Внедрение API Gateway" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="350" y="270" width="570" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-37" value="Проектирование витрин данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="445" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-39" value="Обнаружение данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="150" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-41" value="Внедрение Data Mesh" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="687" y="195" width="510" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-42" value="Внедрение Airflow" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="150" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-44" value="Проработка обновления сервиса клиник" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="510" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-45" value="Продуктовый запуск портала самообслуживания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="380" width="230" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-46" value="Разработка портала самообслуживания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="710" y="470" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-47" value="Проработка MVP портала самообслуживания" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="380" width="207" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-48" value="Интеграция новых бизнесов&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="320" width="340" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-49" value="Проработка интеграций новых бизнесов" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="470" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-51" value="Обновление витрин данных" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="950" y="460" width="180" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="qVizkSaB9zK_2vUc7EST-52" value="Проработка MVP интеграций" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="456.5" y="330" width="207" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
